@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903128214651",
+    "firebase_url": "https://visitnepal-b0470.firebaseio.com",
+    "project_id": "visitnepal-b0470",
+    "storage_bucket": "visitnepal-b0470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903128214651:android:ded28210992631b4ca86de",
+        "android_client_info": {
+          "package_name": "com.binod.visitnepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903128214651-bvv90b0bmcti9i8ds4ckqp8se0lbpm59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.binod.visitnepal",
+            "certificate_hash": "e47404abad4442110808ea8896a43c0ef649af6c"
+          }
+        },
+        {
+          "client_id": "903128214651-sv30cmndogf8rseeba1trk3hfskrfv68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBORGEk4YmwnfBWXNtFE54fuiwvGTG2Z9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903128214651-sv30cmndogf8rseeba1trk3hfskrfv68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

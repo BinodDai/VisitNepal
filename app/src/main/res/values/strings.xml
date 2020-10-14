@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VisitNepal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_open_drawer">open drawer</string>
+    <string name="nav_close_drawer">close drawer</string>
+</resources>
